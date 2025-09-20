@@ -1,0 +1,181 @@
+text,label
+Your account will be suspended unless you verify your details immediately,manipulation
+Urgent: Update your password now to avoid losing access,manipulation
+Click this link to prevent your account from being locked,manipulation
+"You have an unpaid invoice, settle it now to avoid penalties",manipulation
+CEO requests immediate transfer of funds to supplier,impersonation
+"Hi, I’m from IT support, please share your login to fix the issue",impersonation
+"This is HR, please confirm your bank details for payroll",impersonation
+"Security team detected unusual login, send your credentials for verification",impersonation
+"I’ve been helping you with small tasks, now could you authorize this payment?",trust_building
+"We’ve been chatting for weeks, can you share your credit card info for booking?",trust_building
+"Let’s collaborate, but I’ll need your personal details for registration",trust_building
+"Over time I’ve proven trustworthy, now please approve this financial request",trust_building
+Here’s a long message about company policy changes with a hidden link inside,distraction
+This newsletter contains multiple irrelevant topics but embeds a fake login page,distraction
+Attackers sometimes add lots of unrelated content to mask a malicious request,distraction
+A 3-page mail about system upgrades includes one line asking for credentials,distraction
+"I’m your long-term partner, authorize this quick payment",trust_building
+An email with lengthy news and a hidden phishing link at the bottom,distraction
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+"We built trust over months, now I need your account login",trust_building
+A long blog-style email distracts while sneaking in a login prompt,distraction
+Your IT admin requires your password for urgent troubleshooting,impersonation
+Confirm your details today to avoid service disruption,manipulation
+"This is your bank manager, please confirm your ATM PIN",impersonation
+"This is your bank manager, please confirm your ATM PIN",impersonation
+Marketing newsletter contains unrelated stories but asks for login midway,distraction
+"We built trust over months, now I need your account login",trust_building
+"I’m calling from customer support, I need your login credentials",impersonation
+Marketing newsletter contains unrelated stories but asks for login midway,distraction
+"I’m calling from customer support, I need your login credentials",impersonation
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+"After weeks of teamwork, can you confirm your bank info?",trust_building
+Failure to act now will result in account suspension,manipulation
+"I’m your long-term partner, authorize this quick payment",trust_building
+Failure to act now will result in account suspension,manipulation
+"After weeks of teamwork, can you confirm your bank info?",trust_building
+Your banking session will expire unless you confirm your identity now,manipulation
+"After weeks of teamwork, can you confirm your bank info?",trust_building
+Failure to act now will result in account suspension,manipulation
+Payment overdue: Pay now to restore your account access,manipulation
+Your banking session will expire unless you confirm your identity now,manipulation
+Confirm your details today to avoid service disruption,manipulation
+"We built trust over months, now I need your account login",trust_building
+An email with lengthy news and a hidden phishing link at the bottom,distraction
+An email with lengthy news and a hidden phishing link at the bottom,distraction
+"I’m calling from customer support, I need your login credentials",impersonation
+Payment overdue: Pay now to restore your account access,manipulation
+Confirm your details today to avoid service disruption,manipulation
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+Payment overdue: Pay now to restore your account access,manipulation
+An email with lengthy news and a hidden phishing link at the bottom,distraction
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+"This is your bank manager, please confirm your ATM PIN",impersonation
+Your banking session will expire unless you confirm your identity now,manipulation
+Finance department requests your card details for reimbursement,impersonation
+Finance department requests your card details for reimbursement,impersonation
+Failure to act now will result in account suspension,manipulation
+Confirm your details today to avoid service disruption,manipulation
+"I’ve supported you with previous tasks, now please share your credentials",trust_building
+"I’ve supported you with previous tasks, now please share your credentials",trust_building
+Payment overdue: Pay now to restore your account access,manipulation
+"We built trust over months, now I need your account login",trust_building
+Confirm your details today to avoid service disruption,manipulation
+"This is your bank manager, please confirm your ATM PIN",impersonation
+Policy update email adds a phishing link under dense paragraphs,distraction
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+"I’m calling from customer support, I need your login credentials",impersonation
+Your IT admin requires your password for urgent troubleshooting,impersonation
+Your banking session will expire unless you confirm your identity now,manipulation
+Verify your email immediately or your account will be deactivated,manipulation
+Failure to act now will result in account suspension,manipulation
+Your banking session will expire unless you confirm your identity now,manipulation
+"I’ve supported you with previous tasks, now please share your credentials",trust_building
+"I’ve supported you with previous tasks, now please share your credentials",trust_building
+Marketing newsletter contains unrelated stories but asks for login midway,distraction
+Failure to act now will result in account suspension,manipulation
+"We built trust over months, now I need your account login",trust_building
+Payment overdue: Pay now to restore your account access,manipulation
+Payment overdue: Pay now to restore your account access,manipulation
+A long blog-style email distracts while sneaking in a login prompt,distraction
+"We built trust over months, now I need your account login",trust_building
+Technical update notice hides malicious URL within irrelevant details,distraction
+Failure to act now will result in account suspension,manipulation
+"Hello, I’m from payroll, share your account number to process salary",impersonation
+"I’ve supported you with previous tasks, now please share your credentials",trust_building
+"After weeks of teamwork, can you confirm your bank info?",trust_building
+Confirm your details today to avoid service disruption,manipulation
+"After weeks of teamwork, can you confirm your bank info?",trust_building
+"I’m your long-term partner, authorize this quick payment",trust_building
+"We built trust over months, now I need your account login",trust_building
+"This is your bank manager, please confirm your ATM PIN",impersonation
+Verify your email immediately or your account will be deactivated,manipulation
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+"I’m calling from customer support, I need your login credentials",impersonation
+Marketing newsletter contains unrelated stories but asks for login midway,distraction
+Finance department requests your card details for reimbursement,impersonation
+"After weeks of teamwork, can you confirm your bank info?",trust_building
+Your banking session will expire unless you confirm your identity now,manipulation
+Your IT admin requires your password for urgent troubleshooting,impersonation
+Finance department requests your card details for reimbursement,impersonation
+"I’ve supported you with previous tasks, now please share your credentials",trust_building
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+Policy update email adds a phishing link under dense paragraphs,distraction
+Technical update notice hides malicious URL within irrelevant details,distraction
+"This is your bank manager, please confirm your ATM PIN",impersonation
+Your IT admin requires your password for urgent troubleshooting,impersonation
+Finance department requests your card details for reimbursement,impersonation
+Your IT admin requires your password for urgent troubleshooting,impersonation
+A long blog-style email distracts while sneaking in a login prompt,distraction
+"Hello, I’m from payroll, share your account number to process salary",impersonation
+Verify your email immediately or your account will be deactivated,manipulation
+A long blog-style email distracts while sneaking in a login prompt,distraction
+Failure to act now will result in account suspension,manipulation
+Your banking session will expire unless you confirm your identity now,manipulation
+"I’ve supported you with previous tasks, now please share your credentials",trust_building
+Marketing newsletter contains unrelated stories but asks for login midway,distraction
+Failure to act now will result in account suspension,manipulation
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+Finance department requests your card details for reimbursement,impersonation
+Confirm your details today to avoid service disruption,manipulation
+"After weeks of teamwork, can you confirm your bank info?",trust_building
+Your banking session will expire unless you confirm your identity now,manipulation
+"We built trust over months, now I need your account login",trust_building
+"Hello, I’m from payroll, share your account number to process salary",impersonation
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+Failure to act now will result in account suspension,manipulation
+Finance department requests your card details for reimbursement,impersonation
+An email with lengthy news and a hidden phishing link at the bottom,distraction
+Finance department requests your card details for reimbursement,impersonation
+Your banking session will expire unless you confirm your identity now,manipulation
+Technical update notice hides malicious URL within irrelevant details,distraction
+"After weeks of teamwork, can you confirm your bank info?",trust_building
+Confirm your details today to avoid service disruption,manipulation
+Confirm your details today to avoid service disruption,manipulation
+"After weeks of teamwork, can you confirm your bank info?",trust_building
+"I’m your long-term partner, authorize this quick payment",trust_building
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+"I’m calling from customer support, I need your login credentials",impersonation
+A long blog-style email distracts while sneaking in a login prompt,distraction
+Failure to act now will result in account suspension,manipulation
+Technical update notice hides malicious URL within irrelevant details,distraction
+"I’ve supported you with previous tasks, now please share your credentials",trust_building
+A long blog-style email distracts while sneaking in a login prompt,distraction
+An email with lengthy news and a hidden phishing link at the bottom,distraction
+Your IT admin requires your password for urgent troubleshooting,impersonation
+Marketing newsletter contains unrelated stories but asks for login midway,distraction
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+Finance department requests your card details for reimbursement,impersonation
+Your IT admin requires your password for urgent troubleshooting,impersonation
+Technical update notice hides malicious URL within irrelevant details,distraction
+Policy update email adds a phishing link under dense paragraphs,distraction
+Finance department requests your card details for reimbursement,impersonation
+"After weeks of teamwork, can you confirm your bank info?",trust_building
+Technical update notice hides malicious URL within irrelevant details,distraction
+Confirm your details today to avoid service disruption,manipulation
+Your IT admin requires your password for urgent troubleshooting,impersonation
+Marketing newsletter contains unrelated stories but asks for login midway,distraction
+Marketing newsletter contains unrelated stories but asks for login midway,distraction
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+"Hello, I’m from payroll, share your account number to process salary",impersonation
+"We built trust over months, now I need your account login",trust_building
+"I’ve supported you with previous tasks, now please share your credentials",trust_building
+"Hello, I’m from payroll, share your account number to process salary",impersonation
+Your banking session will expire unless you confirm your identity now,manipulation
+"I’m your long-term partner, authorize this quick payment",trust_building
+Your IT admin requires your password for urgent troubleshooting,impersonation
+"I’m your long-term partner, authorize this quick payment",trust_building
+A long blog-style email distracts while sneaking in a login prompt,distraction
+Your IT admin requires your password for urgent troubleshooting,impersonation
+Marketing newsletter contains unrelated stories but asks for login midway,distraction
+"We’ve collaborated on multiple projects, kindly approve this expense",trust_building
+Confirm your details today to avoid service disruption,manipulation
+Marketing newsletter contains unrelated stories but asks for login midway,distraction
+"Hello, I’m from payroll, share your account number to process salary",impersonation
+Failure to act now will result in account suspension,manipulation
+Marketing newsletter contains unrelated stories but asks for login midway,distraction
+"We built trust over months, now I need your account login",trust_building
+"We built trust over months, now I need your account login",trust_building
+Payment overdue: Pay now to restore your account access,manipulation
